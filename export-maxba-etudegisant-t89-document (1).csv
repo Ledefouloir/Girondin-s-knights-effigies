@@ -1,0 +1,6 @@
+﻿"Document H-ID"	"Document Record Title"	"#id_place H-ID"	"Place Record Title"	"Place name"	Country	"Location (mappable)"	"#id_place Record Title"	#id_lieux	"Type of document"
+1	"record 1"	6	"Saint Emilion"	"Saint Emilion"	France	"POINT(-0.1565442 44.89381173)"	"Saint Emilion"	"POINT(-0.15653004 44.89380979)"	gisant
+2	"record 2"	10	"Tustal (Sadirac)"	"Tustal (Sadirac)"	France	"POINT(-0.38959825 44.78523548)"	"Tustal (Sadirac)"	"POINT(-0.38981307 44.78531957)"	gisant
+3	"record 3"	8	Uzeste	Uzeste	France	"POINT(-0.32373664 44.44179299)"	Uzeste	"POINT(-0.32387433 44.44188006)"	gisant
+4	"record 4"	7	Frontenac	Frontenac	France	"POINT(-0.1631448 44.73825001)"	Frontenac	"POINT(-0.16334984 44.73820312)"	gisant
+5	"record 5"	9	Targon	Targon	France	"POINT(-0.26347551 44.7344824)"	Targon	"POINT(-0.26358638 44.7345219)"	gisant
