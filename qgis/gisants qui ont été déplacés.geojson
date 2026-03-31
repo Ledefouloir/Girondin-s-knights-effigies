@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "gisants qui ont été déplacés",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "field_1": "Targon", "X_L93": 441686.66, "Y_L93": 6409271.57 }, "geometry": { "type": "Point", "coordinates": [ 441686.659999999974389, 6409271.570000000298023 ] } },
+{ "type": "Feature", "properties": { "field_1": "Bordeaux", "X_L93": 417566.73, "Y_L93": 6421571.64 }, "geometry": { "type": "Point", "coordinates": [ 417566.729999999981374, 6421571.639999999664724 ] } }
+]
+}

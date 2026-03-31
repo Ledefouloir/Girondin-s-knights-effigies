@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "emplacement d'origine gisants",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "field_1": "Saint Emilion", "X_L93": 450861.33, "Y_L93": 6426606.98 }, "geometry": { "type": "Point", "coordinates": [ 450861.330000000016298, 6426606.980000000447035 ] } },
+{ "type": "Feature", "properties": { "field_1": "Sadirac", "X_L93": 431987.43, "Y_L93": 6415397.11 }, "geometry": { "type": "Point", "coordinates": [ 431987.43, 6415397.110000000335276 ] } },
+{ "type": "Feature", "properties": { "field_1": "Uzeste", "X_L93": 435551.29, "Y_L93": 6376988.34 }, "geometry": { "type": "Point", "coordinates": [ 435551.289999999979045, 6376988.339999999850988 ] } },
+{ "type": "Feature", "properties": { "field_1": "Frontenac", "X_L93": 449636.52, "Y_L93": 6409360.48 }, "geometry": { "type": "Point", "coordinates": [ 449636.520000000018626, 6409360.480000000447035 ] } },
+{ "type": "Feature", "properties": { "field_1": "Montarouch", "X_L93": 442185.2, "Y_L93": 6411733.1 }, "geometry": { "type": "Point", "coordinates": [ 442185.200000000011642, 6411733.099999999627471 ] } }
+]
+}
